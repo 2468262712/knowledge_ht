@@ -80,7 +80,7 @@
   "code_error.outlink_error.un_auth_user": "身份校验失败",
   "code_error.plugin_error.not_exist": "插件不存在",
   "code_error.plugin_error.un_auth": "无权操作该插件",
-  "code_error.system_error.community_version_num_limit": "超出开源版数量限制，请升级商业版: https://fastgpt.in",
+  "code_error.system_error.community_version_num_limit": "超出数量限制",
   "code_error.team_error.ai_points_not_enough": "",
   "code_error.team_error.app_amount_not_enough": "应用数量已达上限~",
   "code_error.team_error.cannot_delete_default_group": "不能删除默认群组",
